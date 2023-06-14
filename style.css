@@ -1,0 +1,65 @@
+body{
+    background-color: #98fb98;
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    position: relative;
+}
+
+div img{
+    border: 3px solid black;
+    height: 720px;
+    position: relative;
+    left: 150px;
+}
+
+.info{
+    background-color: #79e679;
+    box-sizing: border-box;
+    box-shadow: 20px 20px 20px #4be44b;
+    /* border: 1px solid black; */
+    width: 85%;
+    height: 1600px;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+
+ul li{
+    font-size: x-large;
+    font-style: oblique;
+    padding: 10px;
+    margin: 5px;
+}
+
+.link{
+    position: relative;
+    padding: 80px;
+    text-align: center;
+    font-size: x-large;
+}
+
+hr{
+    color: aqua;
+}
+
+.mj{
+    display: inline;
+    font: bold;
+    font-size: larger;
+    /* align-items: end; */
+    position: relative;
+    left: 1400px;
+    bottom: 50px;
+    transition: 2s;
+    
+}
+.mj:hover{
+    color: red;
+    width: 100px;
+}
+
